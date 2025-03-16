@@ -1,0 +1,39 @@
+h1 {
+    color: black;
+    background-color: palevioletred;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: green 10px solid;
+    opacity: 0.5;
+    box-shadow: 5px 5px 5px black
+}
+
+h1:hover {
+    color: lightcoral;
+    background-color: aquamarine;
+}
+
+body {
+    background-color: white;
+}
+
+.block {
+    display: block;
+    background-color: antiquewhite;
+    border: lightblue 10px solid;
+    text-align: center;
+    font-weight: bold;
+    margin: 20px;
+    padding: 20px;
+    color: blue;
+}
+
+img {
+    height: 200px;
+}
+
+img:hover {
+    box-shadow: 7px 7px 7px green;
+}
